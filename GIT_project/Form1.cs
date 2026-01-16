@@ -12,7 +12,7 @@ namespace GIT_project
 
         }
 
-        //add task
+        //btn add task
         private void button1_Click(object sender, EventArgs e)
         {
 
